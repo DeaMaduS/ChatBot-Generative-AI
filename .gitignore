@@ -1,0 +1,26 @@
+# Binaries
+chatbot-ai/bin/
+
+# Configuration files
+*.env
+
+# Gradle metadata
+.gradle/
+
+# IntelliJ IDEA metadata
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Build logs
+*.log
+
+# Local library
+chatbot-ai/lib/
+
+# NuGet cache
+packages/
+
+# Python environments
+chatbot-ai/
